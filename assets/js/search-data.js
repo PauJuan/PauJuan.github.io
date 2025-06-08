@@ -23,16 +23,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-services",
-          title: "services",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-projects",
+          title: "projects",
+          description: "a collection of relevant projects, organised by service line",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/services/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "A list of the repositories that I am currently working on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
