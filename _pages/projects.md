@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: a collection of relevant projects, organised by service line
+description: A collection of relevant projects, organised by service line
 nav: true
 nav_order: 3
 display_categories: [sagis, rqp, cip]
