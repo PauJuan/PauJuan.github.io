@@ -1,11 +1,11 @@
 ---
 layout: page
-title: services
-permalink: /services/
-description: A growing collection of your cool projects.
+title: projects
+permalink: /projects/
+description: a collection of relevant projects, organised by service line
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [sagis, rqp, cip]
 horizontal: false
 ---
 

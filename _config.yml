@@ -89,7 +89,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Digital Water Chronicles # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: A blog that focuses on the intersection of water management and technology. Here I explore digital aspects of water management and water-related topics, such as modelling, programming, and data analysis.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
