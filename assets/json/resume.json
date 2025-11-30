@@ -11,18 +11,36 @@
       "address": "Aztec West Business Park, 500 Park Avenue",
       "postalCode": "BS32 4RZ",
       "city": "Bristol",
-      "country": "United Kingdom",
-    },
+      "country": "United Kingdom"
+    }
   },
   "work": [
     {
       "name": "AtkinsRéalis",
       "position": "Principal Scientist",
       "url": "https://www.atkinsrealis.com/",
-      "startDate": "2015-05-15",
+      "startDate": "2019-02-01",
       "endDate": "Present",
-      "summary": "Pioneering work in water management in the UK",
-      "highlights": ["SAGIS"]
+      "summary": "Water Quality expert working the UK industry",
+      "highlights": ["SAGIS-SIMCAT", "RQP-MPER", "DWMP"]
+    },
+	{
+      "name": "Catalan Institute Water Research",
+      "position": "Visiting Scientist",
+      "url": "https://icra.cat/en/",
+      "startDate": "2016-07-01",
+      "endDate": "2017-07-01",
+      "summary": "Researcher",
+      "highlights": ["Resilience of the wastewater treatment process"]
+    },
+	{
+      "name": "AtkinsRéalis",
+      "position": "Research Scientist",
+      "url": "https://www.atkinsrealis.com/",
+      "startDate": "2015-05-15",
+      "endDate": "2019-02-01",
+      "summary": "PhD candidate researching wastewater resilience",
+      "highlights": ["Resilience", "Wastewater", "Activated Sludge"]
     }
   ],
   "education": [
@@ -34,62 +52,98 @@
       "studyType": "PhD",
       "startDate": "2015-05-15",
       "endDate": "2019-02-01",
-      "score": "Cum Laude",
+      "score": "Cum Laude"
     },
 	{
       "institution": "University of Valencia / Politechnic University of Valencia",
       "location": "Valencia, Spain",
       "url": "https://www.uv.es/",
       "area": "Environmental Engineering",
-      "studyType": "PhD",
-      "startDate": "2015-05-15",
-      "endDate": "2019-02-01",
-      "score": "Cum Laude",
+      "studyType": "Masters",
+      "startDate": "2012-09-01",
+      "endDate": "2014-04-01",
+      "score": "honors"
     },
 	{
-      "institution": "University of Girona",
-      "location": "Girona, Spain",
-      "url": "https://www.udg.edu/en/",
-      "area": "Water Science and Technology",
-      "studyType": "PhD",
-      "startDate": "2015-05-15",
-      "endDate": "2019-02-01",
-      "score": "Cum Laude",
+      "institution": "University of Valencia",
+      "location": "Valencia, Spain",
+      "url": "https://www.uv.es/",
+      "area": "Environmental Sciences",
+      "studyType": "Bachelors Degree",
+      "startDate": "2006-09-01",
+      "endDate": "2011-06-01"
     }
   ],
   "Chartership and honors": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Chartered Water and Environmental Manager",
+      "date": "2021-11-01",
+      "awarder": "CIWEM (Chartered Institution Of Water And Environmental Management)",
+      "url": "https://www.ciwem.org/",
+      "summary": "CIWEM is the leading royal chartered professional body dedicated to sustainable management of the environment, globally."
+    },
+	{
+      "title": "Marie Curie European ITN Fellowship",
+      "date": "2015-05-15",
+      "awarder": "European Comission",
+      "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/",
+      "summary": "Prestigious fellowship that provides a generous salary and an allocation for research and training costs."
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
+      "language": "Valencian",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+	{
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+	    {
+      "language": "French",
+      "fluency": "Full professional competency",
+      "icon": ""
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Water Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Water Quality modelling",
+        "Data analytics"
       ]
-    }
-  ],
+    },
+	{
+      "name": "Software development",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "ArcGIS Pro SDK",
+		"Python",
+		"Jupyter notebooks",
+		"C# and .NET"
+      ]
+	},
+	{
+      "name": "GIS and optimisation",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "ArcGIS Pro",
+		"QGIS",
+		"Linear programming"
+      ]
+	}
+  ]
 }
