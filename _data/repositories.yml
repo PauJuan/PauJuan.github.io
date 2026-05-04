@@ -1,6 +1,8 @@
 github_users:
   - PauJuan
 
+repo_description_lines_max: 2
+
 github_repos:
   - PauJuan/PauJuan.github.io
   - PauJuan/PyRQP

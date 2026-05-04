@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -31,8 +31,15 @@ Hello, I am a scientist working in water quality. This is my personal webpage.
 
 I am a Doctor in Water Science and Technology, with a background in environmental science and a Masters’ in environmental engineering. 
 
-Currently I am working in the Water Quality team in the Water Management Consultancy group at AtkinsRéalis, helping water companies deliver their <a href="https://www.gov.uk/government/publications/developing-the-environmental-resilience-and-flood-risk-actions-for-the-price-review-2024/water-industry-national-environment-programme-winep-methodology">WINEP</a> plans for AMP8 and beyond. 
+Currently I am working in the Water Quality team in the Water Management Consultancy group at AtkinsRéalis, helping water companies deliver their <a href="https://www.gov.uk/government/publications/developing-the-environmental-resilience-and-flood-risk-actions-for-the-price-review-2024/water-industry-national-environment-programme-winep-methodology">WINEP</a> and <a href="https://www.gov.uk/government/publications/guidelines-for-statutory-drainage-and-wastewater-management-plans-dwmps">DWMP</a> plans for AMP8 and beyond.
 
 My areas of expertise include water management, water quality and wastewater process modelling, resilience, data analysis, GIS and programming. I am particularly interested in optimisation to support decision making in water management.
 
 I also enjoy developing tools to automate or improve the <a href="https://ukwir.org/sagis">SAGIS-SIMCAT</a> water quality simulation environment from the <a href="https://www.gov.uk/government/organisations/environment-agency">Environment Agency</a> and <a href="https://ukwir.org/">UKWIR</a>.
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ -->
