@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/publications/";
               },
-            },{id: "post-a-post-with-jupyter-notebook",
+            },{id: "post-the-sagis-manual-online",
+        
+          title: "the SAGIS manual online",
+        
+        description: "an online version of the SAGIS manual",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/SAGIS-online-manual/";
+          
+        },
+      },{id: "post-a-post-with-jupyter-notebook",
         
           title: "a post with jupyter notebook",
         
@@ -60,6 +71,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/jupyter-notebook/";
+          
+        },
+      },{id: "post-a-post-with-formatting-and-links",
+        
+          title: "a post with formatting and links",
+        
+        description: "march &amp; april, looking forward to summer",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-three-body-problem",
