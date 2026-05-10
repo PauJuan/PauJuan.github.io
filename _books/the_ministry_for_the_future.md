@@ -12,4 +12,4 @@ released: 2020
 stars: 5
 status: Finished
 ---
-The Ministry for the Future is a gripping climate fiction novel that explores near-future global efforts to address the climate crisis. Through interlocking perspectives of policymakers, activists, and affected communities, the book examines the moral, political, and technological dimensions of planetary-scale adaptation and mitigation. It is widely praised for its ambitious scope, scientific grounding, and hopeful yet challenging portrayal of collective action.
+The Ministry for the Future is a gripping climate fiction novel that explores near-future global efforts to address the climate crisis. Through interlocking perspectives of policymakers, activists, and affected communities, the book examines the moral, political, and technological dimensions of planetary-scale adaptation and mitigation. I really enjoyed its ambitious scope, scientific grounding, and hopeful yet challenging portrayal of collective action.
