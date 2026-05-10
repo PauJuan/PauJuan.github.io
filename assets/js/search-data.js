@@ -94,11 +94,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/urban_drainage/";
+            },},{id: "books-talking-to-my-daughter-about-the-economy",
+          title: 'Talking to My Daughter About the Economy',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/talking_to_my_daughter_about_the_economy/";
             },},{id: "books-the-ministry-for-the-future",
           title: 'The Ministry for the Future',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_ministry_for_the_future/";
+            },},{id: "books-a-barrister-for-the-earth",
+          title: 'A Barrister for the Earth',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/a_barrister_for_the_earth/";
             },},{id: "books-is-a-river-alive",
           title: 'Is a River Alive?',
           description: "",
