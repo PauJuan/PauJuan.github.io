@@ -6,7 +6,7 @@ cover: assets/img/book_covers/is_a_river_alive.jpg
 categories: nature-writing environmental-philosophy travel conservation
 tags: favorite
 date: 2026-05-10
-started: 2026-05-10
+# started: 2026-05-10
 # finished: 
 released: 2025
 stars: 
