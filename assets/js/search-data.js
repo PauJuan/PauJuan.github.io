@@ -77,6 +77,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_ministry_for_the_future/";
+            },},{id: "books-is-a-river-alive",
+          title: 'Is a River Alive?',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/is_a_river_alive/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
